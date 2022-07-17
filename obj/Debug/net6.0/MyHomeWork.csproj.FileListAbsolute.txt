@@ -1,0 +1,15 @@
+C:\Users\Котик\Desktop\MyHomeWork\bin\Debug\net6.0\MyHomeWork.exe
+C:\Users\Котик\Desktop\MyHomeWork\bin\Debug\net6.0\MyHomeWork.deps.json
+C:\Users\Котик\Desktop\MyHomeWork\bin\Debug\net6.0\MyHomeWork.runtimeconfig.json
+C:\Users\Котик\Desktop\MyHomeWork\bin\Debug\net6.0\MyHomeWork.dll
+C:\Users\Котик\Desktop\MyHomeWork\bin\Debug\net6.0\MyHomeWork.pdb
+C:\Users\Котик\Desktop\MyHomeWork\obj\Debug\net6.0\MyHomeWork.csproj.AssemblyReference.cache
+C:\Users\Котик\Desktop\MyHomeWork\obj\Debug\net6.0\MyHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Котик\Desktop\MyHomeWork\obj\Debug\net6.0\MyHomeWork.AssemblyInfoInputs.cache
+C:\Users\Котик\Desktop\MyHomeWork\obj\Debug\net6.0\MyHomeWork.AssemblyInfo.cs
+C:\Users\Котик\Desktop\MyHomeWork\obj\Debug\net6.0\MyHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Котик\Desktop\MyHomeWork\obj\Debug\net6.0\MyHomeWork.dll
+C:\Users\Котик\Desktop\MyHomeWork\obj\Debug\net6.0\refint\MyHomeWork.dll
+C:\Users\Котик\Desktop\MyHomeWork\obj\Debug\net6.0\MyHomeWork.pdb
+C:\Users\Котик\Desktop\MyHomeWork\obj\Debug\net6.0\MyHomeWork.genruntimeconfig.cache
+C:\Users\Котик\Desktop\MyHomeWork\obj\Debug\net6.0\ref\MyHomeWork.dll
