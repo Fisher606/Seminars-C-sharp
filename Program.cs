@@ -32,7 +32,7 @@ while(a > 999)
     a /=10; // то же самое, что и a = a / 10;
 }
 
-*/
+
 
 Console.Write("Input Day: " );
 int num = Convert.ToInt32(Console.ReadLine());
@@ -51,3 +51,18 @@ else
     if(num == 6)Console.WriteLine("Суббота");
     if(num == 7)Console.WriteLine("Воскресение");
 }
+
+*/
+// Задача 2. Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее
+int num1, num2;
+Console.Write("Input First Integer Number: " );
+num1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input Second Integer Number: " );
+num2 = Convert.ToInt32(Console.ReadLine());
+
+if(num1>num2)
+    Console.WriteLine(num1);
+else
+    Console.WriteLine(num2);
+
+
