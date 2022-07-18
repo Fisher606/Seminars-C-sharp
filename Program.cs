@@ -84,7 +84,7 @@ else num1 = max;
 
  Console.Write(max);   
 
- */
+ 
 
  // Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
@@ -97,3 +97,24 @@ if(num % 2 == 0)
 Console.Write("Четное");
 else 
 Console.Write("Нечетное");
+
+
+*/
+
+
+//Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N
+
+Console.Write("Input Positive Integer Number: " );
+int num = Convert.ToInt32(Console.ReadLine());
+int current = 1;
+if(num <= 0)
+    Console.Write("Введите положительное число");
+else{
+    
+    while(current <= num)
+    {
+    if(current % 2 == 0)
+        Console.Write(current + " ");
+    current++; // то же самое, что и current = current + 1;
+    }
+}
