@@ -65,7 +65,7 @@ if(num1>num2)
 else
     Console.WriteLine(num2);
 
-*/
+
 
 // Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
@@ -83,3 +83,17 @@ if(num1 > num2)
 else num1 = max;
 
  Console.Write(max);   
+
+ */
+
+ // Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+
+ int num;
+
+Console.Write("Введите число " );
+num = Convert.ToInt32(Console.ReadLine());
+
+if(num % 2 == 0)
+Console.Write("Четное");
+else 
+Console.Write("Нечетное");
